@@ -24,8 +24,7 @@ else:
     print("游戏未安装！")
 ```
 
-神圣视频
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=408009058&bvid=BV1ZG411X71k&cid=1324065383&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[神圣视频](https://www.bilibili.com/video/BV1ZG411X71k/ "好看捏~")
 
 
 [*极乐世界，快点击进入！！！*](https://www.bilibili.com/video/BV1GJ411x7h7/ "羽化而登仙[doge]")
