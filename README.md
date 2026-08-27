@@ -1,22 +1,22 @@
 # **个人主页**
 ## 你好 **OuO**
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=彩虹文字效果&font=Fira%20Code&color=ff0000,00ff00,0000ff">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=22ff22&vCenter=true&width=400&lines=写代码好难受+++TOT)
 
-
-
-自我介绍
+<kbd>自我介绍
 |姓名|年龄|爱好|
 |:-:|:-:|:-:|
 |董浩然|18|无|
 
 
-每天必做的事
+<kbd>每天必做的事
 - 吃饭
 - **睡觉**
 - 打游戏 
 
-发明的代码
+<kbd>发明的代码
 ```py
 a = input("游戏：")
 if a == "原神":
@@ -25,10 +25,8 @@ else:
     print("原神启动")
 ```
 
-[视频](https://www.bilibili.com/video/BV1ZG411X71k/ "好看捏~")
 
-
-[*极乐世界，点击进入*](https://www.bilibili.com/video/BV1GJ411x7h7/ "羽化而登仙[doge]")
+[*极乐世界，点击进入*](https://www.bilibili.com/video/BV1GJ411x7h7/ "好看捏~[doge]")
 
 ![芙宁娜](https://upload-bbs.miyoushe.com/upload/2023/11/06/370785112/facc68bf864e0c350cddbc3829c1f667_5099723806750521711.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg "最喜欢的角色")
 
