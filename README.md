@@ -1,7 +1,9 @@
 # **个人主页**
 ## 你好 **OuO**
 
-> （写代码好难受）T.T
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=22ff22&vCenter=true&width=400&lines=写代码好难受+++TOT)
+
+
 
 自我介绍
 |姓名|年龄|爱好|
