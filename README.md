@@ -23,10 +23,10 @@ else:
     print("游戏未安装！")
 ```
 
-[神圣视频](https://www.bilibili.com/video/BV1ZG411X71k/ "好看捏~")
+[视频](https://www.bilibili.com/video/BV1ZG411X71k/ "好看捏~")
 
 
-[*极乐世界，快点击进入！！！*](https://www.bilibili.com/video/BV1GJ411x7h7/ "羽化而登仙[doge]")
+[*极乐世界，点击进入！！！*](https://www.bilibili.com/video/BV1GJ411x7h7/ "羽化而登仙[doge]")
 
 ![芙宁娜](https://upload-bbs.miyoushe.com/upload/2023/11/06/370785112/facc68bf864e0c350cddbc3829c1f667_5099723806750521711.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg "最喜欢的角色")
 
