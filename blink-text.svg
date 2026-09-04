@@ -1,6 +1,6 @@
-<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
-  <text x="300" y="30" font-size="30" fill="#4EA4EF" font-family="sans-serif">
-    芙宁娜好看捏😋
+<svg width="1000" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="350" y="40" font-size="35" fill="#4EA4EF" font-family="sans-serif">
+    芙宁娜好看捏DUO
     <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
   </text>
 </svg>
