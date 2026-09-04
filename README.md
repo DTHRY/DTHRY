@@ -1,7 +1,7 @@
 # **个人主页**
 ## 你好 **OuO**
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=22ff22&center=true&vCenter=true&width=600&lines=写代码好难受+++TOT "这是真的")
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=22ff22&center=true&vCenter=true&width=1000&lines=写代码好难受+++TOT "这是真的")
 
 <kbd>自我介绍
 |姓名|年龄|爱好|
